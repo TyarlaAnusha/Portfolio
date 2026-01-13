@@ -180,33 +180,32 @@ portfolio/
 
 ### Homepage - Hero Section
 
-```![alt text](image.png)
+![alt text](image.png)
 
-```
+
 
 ### About Section Layout
 
-```
 ![alt text](image-1.png)
-```
+
 
 ### Experience Timeline (Desktop)
 
-```
+
      ![alt text](image-2.png)
-```
+
 
 ### Projects Grid
 
-```
+
 ![alt text](image-3.png)
-```
+
 
 ### Mobile View (< 768px)
 
-```
+
 ![alt text](image-4.png)
-```
+
 
 ---
 
